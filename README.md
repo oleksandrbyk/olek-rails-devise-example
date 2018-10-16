@@ -1,8 +1,8 @@
 # devise example
 ## Set up
 
-    $ git clone git@github.com:nalabjp/devise-example.git
-    $ cd devise-example
+    $ git clone https://github.com/oleksandrbyk/olek-rails-devise-example.git
+    $ cd olek-rails-devise-example
     $ bin/setup
 
 ## Launch application
